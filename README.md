@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Code 301 - Intermediate Software Development Reading Notes
 
-You can use the [editor on GitHub](https://github.com/Zavvy-Glitch/code301-readingNotes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Readings 01 : Introduction to React and Components
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Component-based Architecture
+  - Focuses on decomposing designs of individual functional or logical components that represent well-defined communication interfaces containing; methods, events, and properties.
 
-### Markdown
+  - Higher level of Abstraction
+  - Divides problems into sub-problems. (paired with component partitions.)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Primary Objective of component-based architecture
+  - Ensure component reusability.
+    - Encapsulates functionality and behaviors of software elements into a reusable and self deployable binary unit.
 
-```markdown
-Syntax highlighted code block
+### Advantages
+  - Reduce time in market and the development cost by reusing existing components.
+  - Increased Reliability with the reuse of the existing component
 
-# Header 1
-## Header 2
-### Header 3
+### What is a Component?
+  1. A modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
+  2. A software object, intended to interafcft with other components, ecapsulating certain functionality or a set of functionalities.
+  3. A software component can be defined as a unit of composition with a contractually specified interface and explicit context dependencies only.
 
-- Bulleted
-- List
+### Component Views
+    - Object Oriented View
+    - Conventional View
+    - Process Related View
 
-1. Numbered
-2. List
+#### Object Oriented View 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zavvy-Glitch/code301-readingNotes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
