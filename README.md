@@ -1,6 +1,6 @@
 # Code 301 - Intermediate Software Development Reading Notes
 
-## Readings 01 : Introduction to React and Components
+## Readings 01 : Introduction to React and Components (Information Directly from: https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
 ### Component-based Architecture
   - Focuses on decomposing designs of individual functional or logical components that represent well-defined communication interfaces containing; methods, events, and properties.
