@@ -1,5 +1,11 @@
 # Code 301 - Intermediate Software Development Reading Notes
 
+## Table of Contents
+[Reading 2](readings2.md)
+
+
+
+
 ## Readings 01 : Introduction to React and Components (Information Directly from: https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
 ### Component-based Architecture
