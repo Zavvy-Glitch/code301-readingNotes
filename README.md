@@ -2,6 +2,8 @@
 
 ## Table of Contents
 [Reading 2](readings2.md)
+[Reading 3](readings3.md)
+[Reading 4](readings4.md)
 
 
 
