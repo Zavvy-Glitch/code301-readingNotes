@@ -22,3 +22,5 @@
 
     7. What does PATCH do?
       - Partially update(patch) something in another system
+      
+ #### Notes Cited from https://gist.github.com/brookr/5977550
