@@ -1,11 +1,11 @@
 # Code 301 - Intermediate Software Development Reading Notes
 
 ## Table of Contents
-[Reading 2](readings2.md)
-[Reading 3](readings3.md)
-[Reading 4](readings4.md)
-[Reading 5](readings5.md)
-[Reading 6](readings6.md)
+| [Reading 2](readings2.md) |
+ [Reading 3](readings3.md) |
+ [Reading 4](readings4.md) |
+ [Reading 5](readings5.md) |
+ [Reading 6](readings6.md) |
 
 
 
