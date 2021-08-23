@@ -5,6 +5,7 @@
 [Reading 3](readings3.md)
 [Reading 4](readings4.md)
 [Reading 5](readings5.md)
+[Reading 6](readings6.md)
 
 
 
