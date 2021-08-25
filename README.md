@@ -7,6 +7,7 @@
  [Reading 5](readings5.md) |
  [Reading 6](readings6.md) |
  [Reading 7](readings7.md) |
+ [Reading 8](readings8.md) |
 
 
 
