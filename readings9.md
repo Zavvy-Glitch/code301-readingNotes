@@ -2,6 +2,8 @@
 
 ## Functional Programming
 
+Notes taken from: [Concepts of Functional Programming in JavaScript](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
+
 1. What is functional programming?
     - Functional programming is a programming paradigm. A style of building the structure and elements of computer programs that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
 
@@ -21,6 +23,8 @@
     - Pure function + Immutable Data = Referential Transparency
 
 ## Node.JS Module & Require
+
+Notes taken from: [Node.JS Tutorial for Beginners #6 - Modules and Require](https://www.youtube.com/watch?v=xHLd36QoS4k)
 
 1. What is a module?
     - A componentized file that will contain the code of a certain functionality for the application.
